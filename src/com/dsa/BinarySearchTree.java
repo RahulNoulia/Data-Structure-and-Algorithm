@@ -83,8 +83,6 @@ public class BinarySearchTree {
 				parent.right = current.right;
 			}
 		} else if (current.left != null && current.right != null) {
-
-			// now we have found the minimum element in the right sub tree
 			Node successor = getSuccessor(current);
 			if (current == root) {
 				root = successor;
