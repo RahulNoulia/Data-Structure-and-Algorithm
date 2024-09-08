@@ -21,7 +21,7 @@ public class PermutationProblem {
 
 	/**
 	 * 
-	 * @param str
+	 * @param STR
 	 * @param permutaion
 	 */
 	private static void printPermutation(String str, String permutaion) {
