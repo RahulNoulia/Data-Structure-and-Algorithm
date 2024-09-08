@@ -22,7 +22,7 @@ public class PermutationProblem {
 	/**
 	 * 
 	 * @param STR
-	 * @param permutaion
+	 * @param PERMUTAION
 	 */
 	private static void printPermutation(String str, String permutaion) {
 		if (null != str && str.length() == 0) {
