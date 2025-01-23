@@ -51,7 +51,7 @@ public class PermutationProblem {
 	/**
 	 * 
 	 * @param index
-	 * @param nums
+	 * @param NUMS
 	 * @param ansList
 	 */
 	private static void doPermute(int index, int[] nums, HashSet<List<Integer>> ansList) {
