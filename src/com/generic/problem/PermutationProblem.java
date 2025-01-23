@@ -13,7 +13,7 @@ public class PermutationProblem {
 		System.out.print(" Subset String :-");
 		printPermutation(str, "");
 
-		// permutation of int array
+		// permutation of INT array
 		int[] nums = new int[] { 1, 2, 3};
 		System.out.println("\n\n Array Subset :- " + permute(nums));
 		;
