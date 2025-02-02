@@ -14,7 +14,6 @@ public class PermutationProblem {
 
 		int[] nums = new int[] { 1, 2, 3};
 		System.out.println("\n\n Array Subset :- " + permute(nums));
-		;
 	}
 
 	/**
