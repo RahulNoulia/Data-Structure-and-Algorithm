@@ -8,12 +8,10 @@ public class PermutationProblem {
 
 	public static void main(String[] args) {
 
-		// permutation of String
 		String str = "abc";
 		System.out.print(" Subset String :-");
 		printPermutation(str, "");
 
-		// permutation of INT array
 		int[] nums = new int[] { 1, 2, 3};
 		System.out.println("\n\n Array Subset :- " + permute(nums));
 		;
